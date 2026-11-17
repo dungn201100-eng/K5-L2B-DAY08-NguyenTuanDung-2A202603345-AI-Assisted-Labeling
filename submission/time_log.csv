@@ -1,1 +1,5 @@
 step,images,minutes,note
+gold_manual,img_001.jpg,5,Gan nhan truck motorbike bicycle person; gom vung xa <20px vao ignore_region; bat can_review=true cho o to bi che khuat sau xe ban tai
+gold_manual,img_012.jpg,6,Gan nhan 4 three_wheeler (tuk-tuk) 3 car va person (tach rieng 3 tai xe trong xe); bat can_review=true cho tai xe hang sau
+gold_manual,img_020.jpg,6,Gan nhan 3 three_wheeler 4 car 1 bus va person; tach xe chong lan tuyen sau; bo bong mo <20px sau kinh lai o to xa
+gold_manual,img_036.jpg,5,Gan nhan motorbike person (tach tung nguoi) va 3 bicycle (~32px >20px) kem can_review=true; gom dam dong xa vao ignore_region
