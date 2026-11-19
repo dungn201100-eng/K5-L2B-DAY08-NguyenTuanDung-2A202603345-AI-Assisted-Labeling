@@ -1,0 +1,177 @@
+{
+ "student": "2A202603345",
+ "seed": 0,
+ "traps": [
+  {
+   "image": "img_005.jpg",
+   "type": "extra",
+   "fake_box": [
+    68.07,
+    20.26,
+    104.98,
+    169.34
+   ],
+   "fake_cls": "person",
+   "id": 682,
+   "ann_id": 107
+  },
+  {
+   "image": "img_021.jpg",
+   "type": "wrong_class",
+   "box": [
+    665.17,
+    400.03,
+    40.72,
+    85.07
+   ],
+   "orig_cls": "motorbike",
+   "fake_cls": "bicycle",
+   "id": 322,
+   "ann_id": 322
+  },
+  {
+   "image": "img_033.jpg",
+   "type": "wrong_class",
+   "box": [
+    286.46,
+    450.53,
+    22.97,
+    62.85
+   ],
+   "orig_cls": "person",
+   "fake_cls": "bicycle",
+   "id": 567,
+   "ann_id": 568
+  },
+  {
+   "image": "img_025.jpg",
+   "type": "extra",
+   "fake_box": [
+    492.83,
+    256.09,
+    116.25,
+    84.06
+   ],
+   "fake_cls": "truck",
+   "id": 683,
+   "ann_id": 438
+  },
+  {
+   "image": "img_034.jpg",
+   "type": "missing",
+   "orig_box": [
+    166.5,
+    505.1,
+    158.57,
+    174.7
+   ],
+   "orig_cls": "motorbike"
+  },
+  {
+   "image": "img_009.jpg",
+   "type": "extra",
+   "fake_box": [
+    629.26,
+    455.55,
+    46.7,
+    123.13
+   ],
+   "fake_cls": "motorbike",
+   "id": 684,
+   "ann_id": 160
+  },
+  {
+   "image": "img_006.jpg",
+   "type": "loose",
+   "orig_box": [
+    516.77,
+    299.03,
+    85.45,
+    48.26
+   ],
+   "bad_box": [
+    498.97,
+    313.31,
+    87.25,
+    39.69
+   ],
+   "cls": "car",
+   "id": 121,
+   "ann_id": 122
+  },
+  {
+   "image": "img_035.jpg",
+   "type": "wrong_class",
+   "box": [
+    439.54,
+    484.71,
+    57.53,
+    96.8
+   ],
+   "orig_cls": "person",
+   "fake_cls": "bicycle",
+   "id": 625,
+   "ann_id": 625
+  },
+  {
+   "image": "img_018.jpg",
+   "type": "missing",
+   "orig_box": [
+    632.94,
+    423.07,
+    23.32,
+    22.17
+   ],
+   "orig_cls": "motorbike"
+  },
+  {
+   "image": "img_017.jpg",
+   "type": "loose",
+   "orig_box": [
+    156.74,
+    303.82,
+    59.31,
+    239.84
+   ],
+   "bad_box": [
+    140.97,
+    348.98,
+    63.38,
+    212.74
+   ],
+   "cls": "person",
+   "id": 227,
+   "ann_id": 228
+  },
+  {
+   "image": "img_010.jpg",
+   "type": "missing",
+   "orig_box": [
+    90.51,
+    246.78,
+    234.08,
+    480.87
+   ],
+   "orig_cls": "person"
+  },
+  {
+   "image": "img_027.jpg",
+   "type": "loose",
+   "orig_box": [
+    615.39,
+    388.58,
+    84.16,
+    142.87
+   ],
+   "bad_box": [
+    624.88,
+    414.0,
+    87.15,
+    127.62
+   ],
+   "cls": "motorbike",
+   "id": 466,
+   "ann_id": 467
+  }
+ ]
+}
