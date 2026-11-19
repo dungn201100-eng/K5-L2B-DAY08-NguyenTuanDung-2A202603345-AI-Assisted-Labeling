@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,2A202603345,Khong phat hien loi nao; tat ca box bam sat dung vat
+img_006.jpg,,sai_vi_tri_kich_thuoc,2A202603345,Box xe car (img_006) con rong so voi vung visible; can chinh lai sat hon phia truoc xe
+img_014.jpg,,khong,2A202603345,Labels chinh xac; person va motorbike duoc phan tach ro rang
+img_031.jpg,,khong,2A202603345,Labels dung; khong co doi tuong bi bo sot hay label sai lop
+img_035.jpg,,sai_lop,2A202603345,Box label bicycle nhung thuc te la person dang di xe; da sua trong batch_reviewed

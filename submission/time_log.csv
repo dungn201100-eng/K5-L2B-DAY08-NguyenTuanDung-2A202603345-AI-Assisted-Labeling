@@ -3,3 +3,4 @@ gold_manual,img_001.jpg,5,Gan nhan truck motorbike bicycle person; gom vung xa <
 gold_manual,img_012.jpg,6,Gan nhan 4 three_wheeler (tuk-tuk) 3 car va person (tach rieng 3 tai xe trong xe); bat can_review=true cho tai xe hang sau
 gold_manual,img_020.jpg,6,Gan nhan 3 three_wheeler 4 car 1 bus va person; tach xe chong lan tuyen sau; bo bong mo <20px sau kinh lai o to xa
 gold_manual,img_036.jpg,5,Gan nhan motorbike person (tach tung nguoi) va 3 bicycle (~32px >20px) kem can_review=true; gom dam dong xa vao ignore_region
+batch_review,24,15,Duyet 24 anh kiem tra 12 bay: xoa 3 box thua sua 3 sai class them 3 missing can chinh 3 box rong

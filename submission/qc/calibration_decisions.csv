@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_021,cau_hoi_mo,"Xe đạp điện có bàn đạp + motor: label bicycle hay motorbike?","motorbike — ưu tiên theo phương tiện di chuyển chính (motor); nếu không rõ thì motorbike","Xe có motor điện gắn vào khung xe đạp → label motorbike không phải bicycle (mục 3.2 v1.0)",v1.1
+CAL-02,img_033,loi_may,"YOLO label xe 3 bánh chở hàng là bicycle (sai class)","three_wheeler — xe 3 bánh chở hàng luôn là three_wheeler dù nhỏ hay lớn","Xe 3 bánh chở hàng/người → three_wheeler; không nhầm với bicycle dù khung giống (mục 3.3 v1.0)",v1.1
+CAL-03,img_006,loi_may,"YOLO tạo box xe ô tô quá rộng bao gồm cả phần khuất sau tường","Chỉ label phần xe thực sự nhìn thấy; không box vào vùng bị khuất","Box chỉ bao phần object visible; không extend vào vùng bị che khuất hoàn toàn (mục 4.1 v1.0)",v1.1
